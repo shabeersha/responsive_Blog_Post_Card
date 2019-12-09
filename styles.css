@@ -168,9 +168,20 @@ body{
 	.blog-post{
 		padding: 2.5rem;
 		flex-direction: column;
-
-		
 	}
+
+	.one{
+		margin-top: 30%;
+	}
+
+	.two{
+		margin-top: 50%;
+	}
+
+	.three{
+		margin-top: 50%;
+	}
+
 	.blog-post_img{
 		min-width: 70%;
 		max-width: 70%;
